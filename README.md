@@ -11,13 +11,13 @@ This repository contains sample script using the below python concept.</br>
 
 <b>2) Functions and Modules</b>
 
-<b>3) OOPS Concepts:</b>
+<b>3) OOPS Concepts</b>
 * Inheritance
 * Encapsulation
 * Polymorphism
 * Abstraction 
 
-<b>4) Exception Scenarios:</b>
+<b>4) Exception Scenarios</b>
 * Try Catch block 
 * Finally
 
