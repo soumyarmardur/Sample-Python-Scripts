@@ -2,22 +2,22 @@
 
 This repository contains sample script using the below python concept.</br>
 
-<b>Data Types used</b>
+1)<b>Data Types used</b>
 * List
 * Tuple
 * Dictionary
 * Set
 * Dataframe
 
-Functions and Modules
+2)<b>Functions and Modules</b>
 
-OOPS Concepts:
+<b>3)OOPS Concepts:</b>
 * Inheritance
 * Encapsulation
 * Polymorphism
 * Abstraction 
 
-Exception Scenarios:
+<b>Exception Scenarios:</b>
 * Try Catch block 
 * Finally
 
