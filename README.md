@@ -1,6 +1,7 @@
 # Sample-Python-Scripts
 
-This repository contains sample script using the below python concept.
+This repository contains sample script using the below python concept.</br>
+
 <b>Data Types used</b>
 * List
 * Tuple
